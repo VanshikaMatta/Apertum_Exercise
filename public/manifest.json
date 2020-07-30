@@ -1,0 +1,9 @@
+{
+  "short_name": "User App",
+  "name": "A simple user page",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

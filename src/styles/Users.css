@@ -1,0 +1,30 @@
+
+/* STRUCTURE */
+
+#cardContent {
+  border-radius: 10px 10px 10px 10px;
+  background: #fff;
+  padding: 30px;
+  width: 90%;
+  margin : 30px;
+  position: relative;
+  padding: 0px;
+  box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+  text-align: center;
+}
+.cardHeader{
+     width:100% 
+}
+.cardBody {
+    width:100%
+}
+
+.cardText {
+ text-align : left;
+ padding: 0px 10px 0px 10px;
+}
+
+.cardValue {
+ text-align : left
+}
+
